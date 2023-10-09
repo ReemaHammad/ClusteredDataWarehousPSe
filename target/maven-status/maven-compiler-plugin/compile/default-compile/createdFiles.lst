@@ -1,0 +1,7 @@
+com/datawarehouse/repositries/DealRepository.class
+com/datawarehouse/ClusteredDataWarehouseApplication.class
+com/datawarehouse/repositries/entities/Deal.class
+com/datawarehouse/services/DealService.class
+com/datawarehouse/exeptions/DealException.class
+com/datawarehouse/controllers/DealController.class
+com/datawarehouse/controllers/dto/DealRequest.class
